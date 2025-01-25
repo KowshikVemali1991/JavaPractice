@@ -6,10 +6,12 @@ public class Checking {
     }
 
     public Checking() {
-        System.out.println("i am in default");
+        System.out.println("i am in default constructor");
     }
 
     public Checking(int a, int b) {
         System.out.println(a+b);
     }
+
+
 }
