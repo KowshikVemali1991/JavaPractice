@@ -8,7 +8,7 @@ public class Amstrong {
         }
 
         if (sum == temp) {
-            System.out.println("The number " + temp + " is amstrong ");
+            System.out.println("This number " + temp + " is amstrong ");
         } else {
             System.out.println("The number " + temp + " is not amstrong ");
         }
