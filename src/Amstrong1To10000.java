@@ -9,7 +9,7 @@ public class Amstrong1To10000 {
             }
 
             if (sum == i) {
-                System.out.println("The number " + i + " is amstrong ");
+                System.out.println("This number " + i + " is amstrong ");
             }
 
         }
