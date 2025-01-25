@@ -10,14 +10,14 @@ public class AreaCalculation {
     }
 
     public void calculateArea(double a) {
-        System.out.println("Area af circle is " + (Math.PI * a * a));
+        System.out.println("Area of circle is " + (Math.PI * a * a));
     }
 
     public void calculateArea(int a) {
-        System.out.println("Area af square is " + (a * a));
+        System.out.println("Area of square is " + (a * a));
     }
 
     public void calculateArea(int a, int b) {
-        System.out.println("Area af rectangle is " + (a * b));
+        System.out.println("Area of rectangle is " + (a * b));
     }
 }
