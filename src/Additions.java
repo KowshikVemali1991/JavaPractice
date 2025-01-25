@@ -4,7 +4,9 @@ public class Additions {
         int b = 30;
         int c = a + b;
         System.out.println(a+b);
+        System.out.println("***************");
         System.out.println(c);
+        //addition of 10 and 20 is 30
         System.out.println("Addition of " +a +" and " +b +" is " +c);
 
         int a1=10, b1=20,c1=a1+b1;
