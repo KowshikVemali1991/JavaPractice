@@ -12,6 +12,7 @@ public class VowelsPerWordInString {
                 }
             }
             System.out.println("Vowels in word "+s4 +" is " +count);
+
         }
 
     }
